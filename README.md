@@ -22,3 +22,7 @@
 
 ## run app
     uvicorn main:app --reload
+<<<<<<< HEAD
+=======
+    
+>>>>>>> becd299 (readme 내용 변경)
